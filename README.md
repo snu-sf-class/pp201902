@@ -1,7 +1,7 @@
 # Programming Principles, SNU 4190.210, 2019 Fall
 
 - Instructor: Prof. [Chung-Kil Hur](http://sf.snu.ac.kr/gil.hur)
-- TA: [Yonghyun Kim](http://sf.snu.ac.kr/yonghyun.kim), [Minki Cho](http://sf.snu.ac.kr/minki.cho)
+- TA: [Yonghyun Kim](http://sf.snu.ac.kr/yonghyun.kim), [Dongjoo Kim](https://sf.snu.ac.kr/dongjoo.kim/)
     + Office: Bldg 302 Rm 312-2
     + Email address: pp@sf.snu.ac.kr
 

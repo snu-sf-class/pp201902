@@ -16,7 +16,7 @@ Download 'lecture.pdf'.
 
 
 ## Assignments
-- Download skeleton code and replace `???` with your code
+- Download skeleton code from https://github.com/snu-sf-class/pp201902-private and replace `???` with your code
 - No delayed submission
 - The score is automatically uncovered right after the due date.
 - Claims: within 2 weeks from the due date, please.
@@ -25,6 +25,7 @@ Download 'lecture.pdf'.
 
 |No. | Published     | Due       	| Description                   	 	 	 	 	 	 	 	 	 	  	|
 |----|------------	|------------	|----------------------	|
+| 1 | 09/27     	|10/7 23:59    | Basics                                                            	|
 
 
 ## Must Read

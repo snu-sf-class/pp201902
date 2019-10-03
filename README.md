@@ -23,6 +23,8 @@ Download 'lecture.pdf'.
 - The score is automatically uncovered right after the due date.
 - Claims: within 2 weeks from the due date, please.
 - You must use the lastest version of Scala (2.13.0).
+- Visit http://147.46.242.54:8001 and log-in with your id (e.g. 2016-12345). Your initial password is equivalent to your id.
+- Zip your src folder which includes Main.scala and upload it.
 <!--- - [Instruction for submission](https://github.com/snu-sf-class/pp201802/issues/7) -->
 
 |No. | Published     | Due       	| Description                   	 	 	 	 	 	 	 	 	 	  	|

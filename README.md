@@ -8,6 +8,9 @@
 ## Announcements
 - Sep 27: [HW1](https://github.com/snu-sf-class/pp201902-private/tree/master/assignments/hw1) is out. (Due date: 10/7(MON) 23:59)
 - Oct 16: [HW2](https://github.com/snu-sf-class/pp201902-private/tree/master/assignments/hw2) is out. (Due date: 10/28(MON) 23:59)
+- Nov 15: [Final exam announcement](https://github.com/snu-sf-class/pp201902/issues/14)
+- Nov 15: [HW3](https://github.com/snu-sf-class/pp201902-private/tree/master/assignments/hw3) is out. (Due date: 11/25(MON) 23:59)
+- Nov 15: [submission announcement](https://github.com/snu-sf-class/pp201902/issues/16)
 
 ##  Lecture slide updates
 
@@ -31,6 +34,7 @@ Download 'lecture.pdf'.
 |----|------------	|------------	|----------------------	|
 | 1 | 09/27     	|10/7 23:59    | Basics                                                            	|
 | 2 | 10/16     	|10/28 23:59    | Algebraic Data Types            	|
+| 3 | 11/15     	|11/25 23:59    | OOP & lazy val             	|
 
 ## Must Read
 

@@ -11,6 +11,8 @@
 - Nov 15: [Final exam announcement](https://github.com/snu-sf-class/pp201902/issues/14)
 - Nov 15: [HW3](https://github.com/snu-sf-class/pp201902-private/tree/master/assignments/hw3) is out. (Due date: 11/25(MON) 23:59)
 - Nov 15: [submission announcement](https://github.com/snu-sf-class/pp201902/issues/16)
+- Nov 28: [HW2](https://github.com/snu-sf-class/pp201902-private/tree/master/project) is out. (Due date: 12/20(FRI) 23:59)
+
 
 ##  Lecture slide updates
 
